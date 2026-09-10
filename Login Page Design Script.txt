@@ -20,6 +20,8 @@ Step 4: Modify the Existing Static Content of Login Page
 	Name: Login Page Region
 	Title: Welcome Back!	
 	CSS Classes: my_custom_login_design
+	Template Options:
+		Login Header: Title
 	
 Step 4.1: Add a static region inside the Static Content of Login Page before User name field.
 	Name: Tag_line
